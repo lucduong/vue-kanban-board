@@ -1,0 +1,12 @@
+{
+  "name": "vue-kanban-board",
+  "version": "1.0.0",
+  "description": "KanBan Board for VueJS. Inspired by Meistertask",
+  "main": "src/index.js",
+  "repository": "git@github.com:lucduong/vue-kanban-board.git",
+  "author": "Luc <luc@ltv.vn>",
+  "license": "MIT",
+  "scripts": {
+    "dev": ""
+  }
+}
